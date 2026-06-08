@@ -11,26 +11,6 @@
 - Database: SQL, DBMS
 - Tools: Git, GitHub, VS Code
 
-## 🚀 Current Projects
-
-### Next In Line
-A virtual queue management system for barbers and customers.
-
-Features:
-- Customer queue management
-- Real-time waiting list
-- Service start & completion tracking
-- Estimated waiting time
-
-### Health Risk Prediction
-A machine learning project that predicts potential health risks based on user health data.
-
-Features:
-- Health data analysis
-- Risk prediction using ML algorithms
-- User-friendly prediction interface
-- Data-driven health insights
-
 ## 📝 Currently Learning
 
 - Advanced Git & GitHub
