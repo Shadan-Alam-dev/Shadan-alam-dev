@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Shady 👋
 
-<!--
-**Shadan-Alam-dev/Shadan-alam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year BCA Student  
+💻 Passionate about Programming, Web Development, and Problem Solving  
+🚀 Building projects to improve my development skills and gain real-world experience
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C, C++, Python, JavaScript
+- Web: HTML, CSS
+- Database: SQL, DBMS
+- Tools: Git, GitHub, VS Code
+
+## 🚀 Current Projects
+
+### Next In Line
+A virtual queue management system for barbers and customers.
+
+Features:
+- Customer queue management
+- Real-time waiting list
+- Service start & completion tracking
+- Estimated waiting time
+
+### Health Risk Prediction
+A machine learning project that predicts potential health risks based on user health data.
+
+Features:
+- Health data analysis
+- Risk prediction using ML algorithms
+- User-friendly prediction interface
+- Data-driven health insights
+
+## 📝 Currently Learning
+
+- Advanced Git & GitHub
+- Full Stack Web Development
+- Database Design
+- Software Development Practices
+
+## 🎯 Goals
+
+- Build impactful software projects
+- Contribute to open-source projects
+- Improve problem-solving skills
+- Become a skilled Software Developer
+
+---
+
+⭐ "Coded to be heard by one. Understood by none."
