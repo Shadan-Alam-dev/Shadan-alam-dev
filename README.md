@@ -1,29 +1,31 @@
 # Hi, I'm Shady 👋
 
-🎓 Second-Year BCA Student  
-💻 Passionate about Programming, Web Development, and Problem Solving  
-🚀 Building projects to improve my development skills and gain real-world experience
+🎓 Second-Year BCA Student
 
-## 👨‍💻 Tech Stack
+I'm currently learning Web Development, Machine Learning, and building real-world projects.
 
-- Languages: C, C++, Python, JavaScript
-- Web: HTML, CSS
-- Database: SQL, DBMS
-- Tools: Git, GitHub, VS Code
+---
 
-## 📝 Currently Learning
+## Tech Stack
 
-- Advanced Git & GitHub
-- Full Stack Web Development
-- Database Design
-- Software Development Practices
+- C, C++, Python
+- HTML, CSS, JavaScript
+- SQL, Git, GitHub
 
-## 🎯 Goals
+---
 
-- Build impactful software projects
-- Contribute to open-source projects
-- Improve problem-solving skills
-- Become a skilled Software Developer
+## Projects
+
+- **Next In Line** — Virtual queue management system.
+- **Health Risk Prediction** — ML-based health risk prediction system.
+
+---
+
+## About Me
+
+- 💻 BCA Student
+- 🚀 Love building practical projects
+- 📚 Always learning new technologies
 
 ---
 
